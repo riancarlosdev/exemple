@@ -24,25 +24,6 @@
   </button>
 </h2>
 
-<style>
-  .btn{
-    background-color: #ddd;
-  	display: inline-block;
-	  padding: 7px 16px;
-  	color: black;
-  	border-radius: 2px;
-  	text-align: center;
-  	transition: .4s ease;
-    border: none;
-  }.btn:hover{
-    background-color: #3e8e41;
-  	color: white;
-	  padding: 7px 16px;
-  	border-radius: 20px;
-  }a{
-    cursor:default;
-  }
-</style>
 
 <h2 align="center" style="font-size:30px; background-color: #4F4F4F; margin: 50px 50px; cursor: default;">SOBRE</h2>
 Esse a pagina é um clone do conteudo de um youtuber que cria uma pagina em uma live para aprimorar o conhecimento dos desenvolverdores iniciantes, com isso tirei muitaas duvidas que eu tinha em relação a formatação e separação de cada item dos site web, segue a baixo 2 listas do meu resulmo: 
